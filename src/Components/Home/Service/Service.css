@@ -1,0 +1,21 @@
+.service{
+
+    background-color: #251F37;
+    border-radius: 20px;
+    color: white;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+.service:hover {
+    transform: translateY(-20px);
+    background: linear-gradient(#0074F1, #1CDEE9);
+    transition: 1.5s ease;
+    cursor: pointer;
+}
+.service img{
+    width: 100%;
+    margin: 2px auto;
+    border-radius: 17px;
+
+   
+
+}
